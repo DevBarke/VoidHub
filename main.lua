@@ -1,17 +1,29 @@
--- loading for my cute russian spy 🤓
--- loading for my cute russian spy 🤓
--- loading for my cute russian spy 🤓
--- loading for my cute russian spy 🤓
--- loading for my cute russian spy 🤓
--- loading for my cute russian spy 🤓
--- loading for my cute russian spy 🤓
+-- (Took a screenshot of you) 
+-- Skid skid skid skid skid skid skid skid skid
+
+-- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+-- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠟⠉⠀⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+-- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠇⠀⠀⠀⠀⠀⠹⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+-- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀⢹⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+-- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣁⣤⣤⡤⠤⠤⠤⢤⣼⣷⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+-- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡞⠉⠉⠀⢀⣀⣀⣀⣀⡀⠀⠀⠀⠙⢷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+-- ⠀⠀⠀⢠⡴⠒⢶⣄⣤⣀⣀⣀⡀⠀⠀⠀⣸⣧⠶⠞⠛⠉⠉⠉⠉⠉⠙⠛⠳⢦⣤⣼⠃⠀⠀⠀⠀⢀⣀⠀⢀⣀⡀⠀⠀⠀
+-- ⠀⠀⢠⡟⠀⠀⠀⠉⠉⠙⠉⠉⢻⢀⣤⠞⠋⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠈⠙⢷⣄⠀⠀⢰⡟⠙⣿⠟⠉⠻⣆⠀⠀
+-- ⠀⣠⠾⢷⡄⠀⠀⠀⠀⠀⠀⠀⣸⡟⠁⠀⢠⠋⢧⡀⠀⠀⠀⠀⠀⠀⠀⣰⠋⢳⡀⠀⠀⠙⣷⡴⠟⠃⠀⠀⠀⠀⢀⣿⠀⠀
+-- ⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⣴⠟⠋⠁⠀⠀⠘⢂⣈⣁⠀⠀⠀⠀⠀⠀⠀⣋⣉⣛⢃⠀⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠛⠛⢻⣄
+-- ⠸⣧⣀⠀⠀⠀⠀⠀⠀⢠⣿⠀⠀⠀⠀⠀⢾⢻⣷⡟⢳⠀⠀⠀⠀⠀⣼⢻⣿⠟⡟⠀⠀⠀⢹⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿
+-- ⠀⢸⡃⠀⠀⠀⠀⠀⠀⠀⢹⣧⠖⠚⠒⢄⠘⢷⣤⡴⠟⣣⡤⠤⣤⣄⠿⢦⣥⡴⢣⠖⠉⠑⢺⡷⣦⡄⠀⠀⠀⠀⢀⣠⡾⠃
+-- ⠀⠈⠛⣶⠆⠀⠀⠀⠀⠰⣿⡇⠀⠀⠀⢈⠀⠀⠀⡴⠋⠁⠀⠀⠀⠈⠻⣦⠀⠀⢦⠀⠀⠀⠀⣿⣟⠀⠀⠀⠀⠀⠀⠈⣿⠀
+-- ⠀⠀⠀⢻⣄⣠⡀⠀⠀⢀⣾⠙⠦⠤⢤⣮⣤⣄⢰⠁⠀⠀⠀⠀⠀⠀⠀⢸⡆⢀⣈⣶⣤⠤⠊⠀⢹⡇⠀⠀⢀⣀⣠⡴⠟⠀
+-- ⠀⠀⠀⠀⠈⠙⠳⠦⠶⠿⣇⠀⠀⠀⡞⣡⠀⠈⠻⡄⠀⠀⠀⠀⠀⠀⠀⢸⡷⠛⢱⣄⠹⡆⠀⠀⠈⣿⠶⠶⠛⠉⠉⠀⠀⠀
+-- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡄⠀⠀⣇⠘⢧⡀⠀⠳⣄⡀⠀⠀⠀⢀⣴⠏⠀⣠⠞⠁⢸⠇⠀⠀⢰⠏⠀⠀⠀⠀⠀⠀⠀⠀
+-- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡄⠀⠙⣦⡀⠻⢦⣀⠀⠉⠓⠒⠛⠉⢀⣠⠞⠁⠀⣰⠏⠀⠀⣠⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀
+-- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣆⠀⠈⠳⣤⡀⠈⠙⠓⠒⠒⠒⠚⠉⠀⢀⣴⠞⠁⠀⢀⣴⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+-- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⡀⠀⠙⠳⢤⣀⣀⣀⣀⣠⡴⠞⠋⠀⠀⣀⣴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+-- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠳⢦⣤⣀⣀⣉⠉⠁⣀⣀⣀⣤⡶⠞⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+-- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠙⠛⠛⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DevBarke/VoidLoader/refs/heads/main/main.lua"))()
 
--- loading for my cute russian spy 🤓
--- loading for my cute russian spy 🤓
--- loading for my cute russian spy 🤓
--- loading for my cute russian spy 🤓
--- loading for my cute russian spy 🤓
--- loading for my cute russian spy 🤓
--- loading for my cute russian spy 🤓
+-- 💀💀💀💀💀🤓🤓🤓💀💀💀💀💀 == 💀💀💀💀💀🤓🤓🤓💀💀💀💀💀
